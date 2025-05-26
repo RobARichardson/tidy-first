@@ -8,6 +8,10 @@
 
 * [1. Guard Clauses](part-1-tidyings/1.-guard-clauses.md)
 
+***
+
+* [2. Dead Code](2.-dead-code.md)
+
 ## Part 2: Managing
 
 * [Coming soon](part-2-managing/coming-soon.md)
