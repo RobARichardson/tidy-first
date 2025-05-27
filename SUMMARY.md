@@ -12,6 +12,7 @@
 
 * [2. Dead Code](2.-dead-code.md)
 * [3: Normalize Symmetries](3-normalize-symmetries.md)
+* [4: New Interface, Old Implementation](4-new-interface-old-implementation.md)
 
 ## Part 2: Managing
 
