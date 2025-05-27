@@ -11,6 +11,7 @@
 ***
 
 * [2. Dead Code](2.-dead-code.md)
+* [3: Normalize Symmetries](3-normalize-symmetries.md)
 
 ## Part 2: Managing
 
