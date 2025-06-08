@@ -6,8 +6,8 @@
 
 ## Part 1: Tidyings
 
-* [1. Guard Clauses](part-1-tidyings/1.-guard-clauses.md)
-* [2. Dead Code](part-1-tidyings/2.-dead-code.md)
+* [1: Guard Clauses](part-1-tidyings/1-guard-clauses.md)
+* [2: Dead Code](part-1-tidyings/2-dead-code.md)
 * [3: Normalize Symmetries](part-1-tidyings/3-normalize-symmetries.md)
 * [4: New Interface, Old Implementation](part-1-tidyings/4-new-interface-old-implementation.md)
 
