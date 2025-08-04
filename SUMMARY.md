@@ -25,6 +25,7 @@
 ## Part 2: Managing
 
 * [Intro](part-2-managing/intro.md)
+* [16: Separate Tidying](part-2-managing/16-separate-tidying.md)
 
 ## Part 3: Theory
 
