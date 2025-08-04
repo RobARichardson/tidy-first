@@ -24,7 +24,7 @@
 
 ## Part 2: Managing
 
-* [Coming soon](part-2-managing/coming-soon.md)
+* [Intro](part-2-managing/intro.md)
 
 ## Part 3: Theory
 
