@@ -14,7 +14,7 @@ Tidyings have to go somewhere otherwise we don't do it. Where should they go?
 
 **Summary**: They go in their own PR with as few per PR as possible.
 
-### Phases
+### We often work in phases
 
 As we learn to tidy, we go through predictable phases:
 
@@ -33,7 +33,7 @@ Split each change (step) into a separate PR.  Sequences of tidyings (or even jus
 ### How we lump or split PRs is a trade-off
 
 * Large, all-inclusive PR show the whole picture but are often too much for the reviewer.
-* Tiny PRs invited feedback in the small sense but come at the risk of going into the weeds.
+* Tiny PRs invite feedback in the small sense but come at the risk of going too far into the weeds.
 
 ### Review Latency
 
