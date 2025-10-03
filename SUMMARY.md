@@ -30,4 +30,4 @@
 
 ## Part 3: Theory
 
-* [Coming soon](part-3-theory/coming-soon.md)
+* [Intro](part-3-theory/intro.md)
