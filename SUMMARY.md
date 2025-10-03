@@ -26,6 +26,7 @@
 
 * [Intro](part-2-managing/intro.md)
 * [16: Separate Tidying](part-2-managing/16-separate-tidying.md)
+* [21: First, After, Later, Never](part-2-managing/21-first-after-later-never.md)
 
 ## Part 3: Theory
 
